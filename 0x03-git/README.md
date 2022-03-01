@@ -1,1 +1,1 @@
-echo 'My first readme' > README.md
+Updated README file echo 'My first readme' > README.md
